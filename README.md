@@ -81,7 +81,6 @@ Bachelor of Science in Computing Science
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 * Email: aba234@sfu.ca
-* Phone: +1 (778) 558-7037
 * Location: North Vancouver, BC
 
 <!--
