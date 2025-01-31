@@ -14,6 +14,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,7 +23,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 * **Languages:** HTML, CSS, JavaScript, C/C++, Python, Java, Dart
-* **Frameworks & Libraries:** Node.js, React, React Native, Bootstrap, Flutter
+* **Frameworks & Libraries:** Node.js, React, React Native, Bootstrap, Flutter, JavaFX
 * **Web Development:** WordPress, Responsive Design, SQL, PostgreSQL
 * **Game Development:** Unreal Engine 5
 * **Data Analysis:** Python (Pandas, NumPy), Excel, SQL
